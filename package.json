@@ -1,0 +1,22 @@
+{
+  "name": "model-view-controller-tech-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camo282/Model-View-Controller-Tech-Blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camo282/Model-View-Controller-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/Camo282/Model-View-Controller-Tech-Blog#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
